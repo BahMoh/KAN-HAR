@@ -25,7 +25,7 @@ Clone the repository:
 ```bash
 git clone https://github.com/BahMoh/KAN-HAR.git
 cd KAN-HAR
-
+```
 
 ## Citation
 If you find this work useful, please cite the following article:
