@@ -1,5 +1,4 @@
-# KAN-HAR
-# Human Activity Recognition using Kolmogorov–Arnold Network (KAN)
+# Human Activity Recognition using Kolmogorov–Arnold Network (KAN-HAR)
 
 This repository provides an open-source implementation of **Human Activity Recognition (HAR)** using a **single three-axis accelerometer** and the **Kolmogorov–Arnold Network (KAN)**. The framework leverages the KAN's ability to model complex nonlinear relationships efficiently, providing competitive performance while maintaining interpretability and a reduced parameter count.
 
